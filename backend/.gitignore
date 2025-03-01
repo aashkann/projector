@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+
+# Distribution / packaging
+.Python
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and databases
+*.log
+db.sqlite3
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.tox/
+.nox/
+pytest_cache/
+
+# IDE / Editor specific files
+.vscode/
+.idea/
+*.swp
+
+# Environment variables and secrets
+.env
+*.env
+config.json
+
+# MyPy cache
+.mypy_cache/
+
+# Django specific
+*.db
+*.sqlite3
+media/
+staticfiles/
+
+# Flask specific
+instance/
+
+# Celery
+celerybeat-schedule
+
+# Debugging
+.ipython/

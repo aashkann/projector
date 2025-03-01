@@ -1,0 +1,973 @@
+{
+  "files": [
+    {
+      "filename": "report1.pdf",
+      "file_path": "/project/docs/report1.pdf",
+      "file_type": ".pdf",
+      "size": 102400,
+      "date_created": "2025-02-20T10:00:00",
+      "date_modified": "2025-02-25T15:30:00",
+      "added_by": "alice@example.com",
+      "tags": ["report", "final"],
+      "content_summary": "Final project report detailing design review.",
+      "pdf_metadata": {
+        "page_count": 12,
+        "document_title": "Final Report",
+        "author": "Alice",
+        "subject": "Architecture Project",
+        "keywords": ["architecture", "design", "report"],
+        "producer": "Adobe Acrobat Pro",
+        "creation_date": "2025-02-20T10:00:00",
+        "modification_date": "2025-02-25T15:30:00",
+        "pdf_version": "1.7",
+        "font_usage": "Helvetica, Times New Roman",
+        "color_profile": "sRGB",
+        "tagged_pdf": true,
+        "encryption_status": "None"
+      }
+    },
+    {
+      "filename": "specifications.pdf",
+      "file_path": "/project/docs/specs/specifications.pdf",
+      "file_type": ".pdf",
+      "size": 85000,
+      "date_created": "2025-02-18T09:30:00",
+      "date_modified": "2025-02-22T14:45:00",
+      "added_by": "bob@example.com",
+      "tags": ["specs", "draft"],
+      "content_summary": "Initial technical specifications for the project.",
+      "pdf_metadata": {
+        "page_count": 8,
+        "document_title": "Technical Specifications",
+        "author": "Bob",
+        "subject": "Project Specs",
+        "keywords": ["technical", "specs"],
+        "producer": "Adobe Acrobat",
+        "creation_date": "2025-02-18T09:30:00",
+        "modification_date": "2025-02-22T14:45:00",
+        "pdf_version": "1.6",
+        "font_usage": "Arial, Verdana",
+        "color_profile": "AdobeRGB",
+        "tagged_pdf": false,
+        "encryption_status": "None"
+      }
+    },
+    {
+      "filename": "presentation.pdf",
+      "file_path": "/project/presentations/presentation.pdf",
+      "file_type": ".pdf",
+      "size": 120000,
+      "date_created": "2025-02-19T11:15:00",
+      "date_modified": "2025-02-24T12:00:00",
+      "added_by": "carol@example.com",
+      "tags": ["presentation", "slides"],
+      "content_summary": "Project overview and design concepts.",
+      "pdf_metadata": {
+        "page_count": 15,
+        "document_title": "Project Presentation",
+        "author": "Carol",
+        "subject": "Design Concepts",
+        "keywords": ["presentation", "design"],
+        "producer": "Adobe Acrobat Pro",
+        "creation_date": "2025-02-19T11:15:00",
+        "modification_date": "2025-02-24T12:00:00",
+        "pdf_version": "1.7",
+        "font_usage": "Calibri, Cambria",
+        "color_profile": "sRGB",
+        "tagged_pdf": true,
+        "encryption_status": "None"
+      }
+    },
+    {
+      "filename": "proposal.pdf",
+      "file_path": "/project/docs/proposal.pdf",
+      "file_type": ".pdf",
+      "size": 95000,
+      "date_created": "2025-02-17T08:45:00",
+      "date_modified": "2025-02-20T09:00:00",
+      "added_by": "dave@example.com",
+      "tags": ["proposal"],
+      "content_summary": "Project proposal with initial plans and cost estimates.",
+      "pdf_metadata": {
+        "page_count": 9,
+        "document_title": "Project Proposal",
+        "author": "Dave",
+        "subject": "Proposal",
+        "keywords": ["proposal", "budget"],
+        "producer": "Adobe Acrobat",
+        "creation_date": "2025-02-17T08:45:00",
+        "modification_date": "2025-02-20T09:00:00",
+        "pdf_version": "1.7",
+        "font_usage": "Times New Roman",
+        "color_profile": "sRGB",
+        "tagged_pdf": false,
+        "encryption_status": "None"
+      }
+    },
+    {
+      "filename": "update.pdf",
+      "file_path": "/project/updates/update.pdf",
+      "file_type": ".pdf",
+      "size": 78000,
+      "date_created": "2025-02-21T10:30:00",
+      "date_modified": "2025-02-23T11:00:00",
+      "tags": ["update", "status"],
+      "content_summary": "Latest project update with revised timelines.",
+      "pdf_metadata": {
+        "page_count": 7,
+        "document_title": "Project Update",
+        "author": "Eve",
+        "subject": "Update",
+        "keywords": ["update", "timeline"],
+        "producer": "Adobe Acrobat",
+        "creation_date": "2025-02-21T10:30:00",
+        "modification_date": "2025-02-23T11:00:00",
+        "pdf_version": "1.6",
+        "font_usage": "Helvetica",
+        "color_profile": "AdobeRGB",
+        "tagged_pdf": true,
+        "encryption_status": "None"
+      }
+    },
+    {
+      "filename": "budget.pdf",
+      "file_path": "/project/finance/budget.pdf",
+      "file_type": ".pdf",
+      "size": 67000,
+      "date_created": "2025-02-16T14:00:00",
+      "date_modified": "2025-02-18T16:20:00",
+      "added_by": "frank@example.com",
+      "tags": ["finance", "budget"],
+      "content_summary": "Detailed budget report for the quarter.",
+      "pdf_metadata": {
+        "page_count": 5,
+        "document_title": "Budget Report",
+        "author": "Frank",
+        "subject": "Finance",
+        "keywords": ["budget", "finance"],
+        "producer": "Adobe Acrobat Pro",
+        "creation_date": "2025-02-16T14:00:00",
+        "modification_date": "2025-02-18T16:20:00",
+        "pdf_version": "1.7",
+        "font_usage": "Courier New",
+        "color_profile": "sRGB",
+        "tagged_pdf": true,
+        "encryption_status": "None"
+      }
+    },
+    {
+      "filename": "meeting_minutes.pdf",
+      "file_path": "/project/meetings/meeting_minutes.pdf",
+      "file_type": ".pdf",
+      "size": 54000,
+      "date_created": "2025-02-15T09:00:00",
+      "date_modified": "2025-02-15T10:30:00",
+      "added_by": "george@example.com",
+      "tags": ["meeting", "minutes"],
+      "content_summary": "Minutes from the last project meeting.",
+      "pdf_metadata": {
+        "page_count": 4,
+        "document_title": "Meeting Minutes",
+        "author": "George",
+        "subject": "Meeting",
+        "keywords": ["minutes", "meeting"],
+        "producer": "Adobe Acrobat",
+        "creation_date": "2025-02-15T09:00:00",
+        "modification_date": "2025-02-15T10:30:00",
+        "pdf_version": "1.6",
+        "font_usage": "Arial",
+        "color_profile": "sRGB",
+        "tagged_pdf": false,
+        "encryption_status": "None"
+      }
+    },
+    {
+      "filename": "summary.pdf",
+      "file_path": "/project/docs/summary.pdf",
+      "file_type": ".pdf",
+      "size": 88000,
+      "date_created": "2025-02-22T13:00:00",
+      "date_modified": "2025-02-22T14:00:00",
+      "added_by": "harry@example.com",
+      "tags": ["summary", "overview"],
+      "content_summary": "Executive summary of the project progress.",
+      "pdf_metadata": {
+        "page_count": 6,
+        "document_title": "Executive Summary",
+        "author": "Harry",
+        "subject": "Overview",
+        "keywords": ["summary", "overview"],
+        "producer": "Adobe Acrobat Pro",
+        "creation_date": "2025-02-22T13:00:00",
+        "modification_date": "2025-02-22T14:00:00",
+        "pdf_version": "1.7",
+        "font_usage": "Georgia",
+        "color_profile": "sRGB",
+        "tagged_pdf": true,
+        "encryption_status": "None"
+      }
+    },
+    {
+      "filename": "design1.jpg",
+      "file_path": "/project/images/design1.jpg",
+      "file_type": ".jpg",
+      "size": 204800,
+      "date_created": "2025-02-20T12:30:00",
+      "date_modified": "2025-02-20T12:30:00",
+      "added_by": "irene@example.com",
+      "tags": ["design", "photo"],
+      "content_summary": "High-resolution photo of design concept.",
+      "image_metadata": {
+        "dimensions": {
+          "width": 1920,
+          "height": 1080
+        },
+        "resolution": "300 DPI",
+        "color_mode": "RGB",
+        "exif": {
+          "camera_model": "Canon EOS 5D",
+          "exposure_time": "1/125",
+          "aperture": "f/5.6",
+          "ISO": 200,
+          "focal_length": "35mm",
+          "date_taken": "2025-02-20T12:25:00",
+          "GPS": {
+            "latitude": 37.7749,
+            "longitude": -122.4194,
+            "altitude": 15
+          }
+        },
+        "ICC_profile": "sRGB",
+        "lens_info": "EF35mm f/2 IS USM",
+        "orientation": "landscape"
+      }
+    },
+    {
+      "filename": "concept.png",
+      "file_path": "/project/images/concept.png",
+      "file_type": ".png",
+      "size": 175000,
+      "date_created": "2025-02-19T14:20:00",
+      "date_modified": "2025-02-19T14:20:00",
+      "added_by": "jack@example.com",
+      "tags": ["concept", "illustration"],
+      "content_summary": "Conceptual illustration for project layout.",
+      "image_metadata": {
+        "dimensions": {
+          "width": 1280,
+          "height": 720
+        },
+        "resolution": "72 DPI",
+        "color_mode": "RGB",
+        "exif": {
+          "camera_model": "Nikon D850",
+          "exposure_time": "1/60",
+          "aperture": "f/4",
+          "ISO": 100,
+          "focal_length": "50mm",
+          "date_taken": "2025-02-19T14:15:00"
+        },
+        "ICC_profile": "sRGB",
+        "orientation": "landscape"
+      }
+    },
+    {
+      "filename": "sketch1.jpg",
+      "file_path": "/project/drawings/sketch1.jpg",
+      "file_type": ".jpg",
+      "size": 150000,
+      "date_created": "2025-02-18T16:45:00",
+      "date_modified": "2025-02-18T16:45:00",
+      "added_by": "kate@example.com",
+      "tags": ["sketch", "draft"],
+      "content_summary": "Hand-drawn sketch scanned into digital format.",
+      "image_metadata": {
+        "dimensions": {
+          "width": 1024,
+          "height": 768
+        },
+        "resolution": "200 DPI",
+        "color_mode": "Grayscale",
+        "exif": {},
+        "ICC_profile": "Gray",
+        "orientation": "portrait"
+      }
+    },
+    {
+      "filename": "rendering.jpg",
+      "file_path": "/project/renderings/rendering.jpg",
+      "file_type": ".jpg",
+      "size": 350000,
+      "date_created": "2025-02-21T09:10:00",
+      "date_modified": "2025-02-21T09:10:00",
+      "added_by": "lisa@example.com",
+      "tags": ["rendering", "3D"],
+      "content_summary": "Photo-realistic 3D rendering of building exterior.",
+      "image_metadata": {
+        "dimensions": {
+          "width": 2560,
+          "height": 1440
+        },
+        "resolution": "300 DPI",
+        "color_mode": "RGB",
+        "exif": {},
+        "ICC_profile": "sRGB",
+        "orientation": "landscape"
+      }
+    },
+    {
+      "filename": "site_photo.png",
+      "file_path": "/project/images/site_photo.png",
+      "file_type": ".png",
+      "size": 220000,
+      "date_created": "2025-02-20T08:00:00",
+      "date_modified": "2025-02-20T08:00:00",
+      "added_by": "mike@example.com",
+      "tags": ["site", "photo"],
+      "content_summary": "Photo of the construction site.",
+      "image_metadata": {
+        "dimensions": {
+          "width": 1600,
+          "height": 900
+        },
+        "resolution": "96 DPI",
+        "color_mode": "RGB",
+        "exif": {},
+        "ICC_profile": "sRGB",
+        "orientation": "landscape"
+      }
+    },
+    {
+      "filename": "diagram.jpeg",
+      "file_path": "/project/misc/diagram.jpeg",
+      "file_type": ".jpeg",
+      "size": 135000,
+      "date_created": "2025-02-19T10:30:00",
+      "date_modified": "2025-02-19T10:30:00",
+      "added_by": "nina@example.com",
+      "tags": ["diagram", "concept"],
+      "content_summary": "Concept diagram showing workflow.",
+      "image_metadata": {
+        "dimensions": {
+          "width": 800,
+          "height": 600
+        },
+        "resolution": "72 DPI",
+        "color_mode": "RGB",
+        "exif": {},
+        "ICC_profile": "sRGB",
+        "orientation": "landscape"
+      }
+    },
+    {
+      "filename": "blueprint.jpg",
+      "file_path": "/project/images/blueprint.jpg",
+      "file_type": ".jpg",
+      "size": 310000,
+      "date_created": "2025-02-17T11:00:00",
+      "date_modified": "2025-02-17T11:00:00",
+      "added_by": "oscar@example.com",
+      "tags": ["blueprint", "draft"],
+      "content_summary": "Scanned blueprint of initial floor layout.",
+      "image_metadata": {
+        "dimensions": {
+          "width": 2048,
+          "height": 1536
+        },
+        "resolution": "300 DPI",
+        "color_mode": "Grayscale",
+        "exif": {},
+        "ICC_profile": "Gray",
+        "orientation": "portrait"
+      }
+    },
+    {
+      "filename": "model1.ifc",
+      "file_path": "/project/bim/model1.ifc",
+      "file_type": ".ifc",
+      "size": 512000,
+      "date_created": "2025-02-16T09:00:00",
+      "date_modified": "2025-02-24T14:00:00",
+      "added_by": "paul@example.com",
+      "tags": ["BIM", "structural"],
+      "content_summary": "BIM model of the building structure.",
+      "bim_metadata": {
+        "project_information": {
+          "project_name": "Downtown Office",
+          "project_address": "123 Main St, City",
+          "project_phase": "Construction"
+        },
+        "building_elements": {
+          "walls": 20,
+          "columns": 15,
+          "beams": 10,
+          "slabs": 5,
+          "doors": 30,
+          "windows": 50
+        },
+        "spatial_structure": {
+          "storeys": 5,
+          "zones": ["lobby", "office", "conference"]
+        },
+        "material_definitions": {
+          "material_types": ["concrete", "steel"],
+          "properties": {
+            "concrete": {
+              "compressive_strength": "30 MPa"
+            }
+          }
+        },
+        "system_data": {
+          "MEP_components": ["HVAC", "electrical", "plumbing"]
+        },
+        "classification_schemes": ["UniFormat"],
+        "energy_analysis": {
+          "sustainability_rating": "A"
+        },
+        "collaborator_information": {
+          "architect": "Alice",
+          "engineer": "Bob"
+        }
+      }
+    },
+    {
+      "filename": "structure.ifc",
+      "file_path": "/project/bim/structure.ifc",
+      "file_type": ".ifc",
+      "size": 480000,
+      "date_created": "2025-02-15T08:30:00",
+      "date_modified": "2025-02-23T13:00:00",
+      "added_by": "rachel@example.com",
+      "tags": ["BIM", "structure"],
+      "content_summary": "Structural BIM model with detailed load analysis.",
+      "bim_metadata": {
+        "project_information": {
+          "project_name": "City Center Tower",
+          "project_address": "456 Central Ave, City",
+          "project_phase": "Design Development"
+        },
+        "building_elements": {
+          "walls": 18,
+          "columns": 20,
+          "beams": 12,
+          "slabs": 6,
+          "doors": 25,
+          "windows": 40
+        },
+        "spatial_structure": {
+          "storeys": 10,
+          "zones": ["lobby", "offices", "amenities"]
+        },
+        "material_definitions": {
+          "material_types": ["concrete", "steel"]
+        },
+        "system_data": {
+          "MEP_components": ["electrical", "plumbing"]
+        },
+        "classification_schemes": ["OmniClass"],
+        "energy_analysis": {
+          "sustainability_rating": "B"
+        },
+        "collaborator_information": {
+          "architect": "Rachel",
+          "engineer": "Sam"
+        }
+      }
+    },
+    {
+      "filename": "facade.ifc",
+      "file_path": "/project/bim/facade.ifc",
+      "file_type": ".ifc",
+      "size": 530000,
+      "date_created": "2025-02-17T10:15:00",
+      "date_modified": "2025-02-23T16:00:00",
+      "added_by": "tina@example.com",
+      "tags": ["BIM", "facade"],
+      "content_summary": "Exterior facade BIM model with material details.",
+      "bim_metadata": {
+        "project_information": {
+          "project_name": "Green Complex",
+          "project_address": "789 Eco Rd, City",
+          "project_phase": "Construction"
+        },
+        "building_elements": {
+          "walls": 22,
+          "columns": 10,
+          "beams": 8,
+          "slabs": 4,
+          "doors": 15,
+          "windows": 35
+        },
+        "spatial_structure": {
+          "storeys": 6,
+          "zones": ["entrance", "lobby", "offices"]
+        },
+        "material_definitions": {
+          "material_types": ["glass", "aluminum"]
+        },
+        "system_data": {
+          "MEP_components": ["HVAC"]
+        },
+        "classification_schemes": ["UniFormat"],
+        "energy_analysis": {
+          "sustainability_rating": "A"
+        },
+        "collaborator_information": {
+          "architect": "Tina",
+          "engineer": "Victor"
+        }
+      }
+    },
+    {
+      "filename": "interior.ifc",
+      "file_path": "/project/bim/interior.ifc",
+      "file_type": ".ifc",
+      "size": 450000,
+      "date_created": "2025-02-14T09:00:00",
+      "date_modified": "2025-02-20T12:00:00",
+      "added_by": "wendy@example.com",
+      "tags": ["BIM", "interior"],
+      "content_summary": "Detailed interior layout and finishing details.",
+      "bim_metadata": {
+        "project_information": {
+          "project_name": "Urban Plaza",
+          "project_address": "321 Market St, City",
+          "project_phase": "Design"
+        },
+        "building_elements": {
+          "walls": 16,
+          "columns": 8,
+          "beams": 6,
+          "slabs": 3,
+          "doors": 20,
+          "windows": 30
+        },
+        "spatial_structure": {
+          "storeys": 4,
+          "zones": ["lobby", "conference", "cafeteria"]
+        },
+        "material_definitions": {
+          "material_types": ["wood", "glass"]
+        },
+        "system_data": {
+          "MEP_components": ["electrical", "plumbing", "HVAC"]
+        },
+        "classification_schemes": ["OmniClass"],
+        "energy_analysis": {
+          "sustainability_rating": "B"
+        },
+        "collaborator_information": {
+          "architect": "Wendy",
+          "engineer": "Xavier"
+        }
+      }
+    },
+    {
+      "filename": "landscape.ifc",
+      "file_path": "/project/bim/landscape.ifc",
+      "file_type": ".ifc",
+      "size": 490000,
+      "date_created": "2025-02-13T08:30:00",
+      "date_modified": "2025-02-22T11:00:00",
+      "added_by": "yvonne@example.com",
+      "tags": ["BIM", "landscape"],
+      "content_summary": "BIM model for landscape planning.",
+      "bim_metadata": {
+        "project_information": {
+          "project_name": "Suburban Complex",
+          "project_address": "654 Suburb Ln, City",
+          "project_phase": "Design Development"
+        },
+        "building_elements": {},
+        "spatial_structure": {
+          "storeys": 1,
+          "zones": ["garden", "parking"]
+        },
+        "material_definitions": {
+          "material_types": ["concrete", "grass"]
+        },
+        "system_data": {},
+        "classification_schemes": [],
+        "energy_analysis": {},
+        "collaborator_information": {
+          "architect": "Yvonne"
+        }
+      }
+    },
+    {
+      "filename": "exterior.ifc",
+      "file_path": "/project/bim/exterior.ifc",
+      "file_type": ".ifc",
+      "size": 500000,
+      "date_created": "2025-02-12T10:00:00",
+      "date_modified": "2025-02-21T14:00:00",
+      "added_by": "zack@example.com",
+      "tags": ["BIM", "exterior"],
+      "content_summary": "Exterior model with detailed façade elements.",
+      "bim_metadata": {
+        "project_information": {
+          "project_name": "Riverfront Complex",
+          "project_address": "987 River Rd, City",
+          "project_phase": "Construction"
+        },
+        "building_elements": {
+          "walls": 25,
+          "columns": 12,
+          "beams": 9,
+          "slabs": 7,
+          "doors": 18,
+          "windows": 42
+        },
+        "spatial_structure": {
+          "storeys": 8,
+          "zones": ["entrance", "lobby", "balcony"]
+        },
+        "material_definitions": {
+          "material_types": ["concrete", "glass", "steel"]
+        },
+        "system_data": {
+          "MEP_components": ["HVAC", "electrical"]
+        },
+        "classification_schemes": ["UniFormat"],
+        "energy_analysis": {
+          "sustainability_rating": "A"
+        },
+        "collaborator_information": {
+          "architect": "Zack",
+          "engineer": "Yuri"
+        }
+      }
+    },
+    {
+      "filename": "design1.3dm",
+      "file_path": "/project/rhino/design1.3dm",
+      "file_type": ".3dm",
+      "size": 256000,
+      "date_created": "2025-02-18T11:00:00",
+      "date_modified": "2025-02-23T16:00:00",
+      "added_by": "alice@example.com",
+      "tags": ["Rhino", "3D model"],
+      "content_summary": "Rhino 3D model of the initial design concept.",
+      "rhino_metadata": {
+        "rhino_version": "7.0",
+        "units": "millimeters",
+        "object_count": 120,
+        "layer_details": {
+          "layer_names": ["Layer 1", "Layer 2"],
+          "layer_visibility": {
+            "Layer 1": true,
+            "Layer 2": false
+          }
+        },
+        "geometry_information": {
+          "bounding_box": {
+            "x_min": 0,
+            "x_max": 1000,
+            "y_min": 0,
+            "y_max": 800,
+            "z_min": 0,
+            "z_max": 500
+          },
+          "object_types": ["curves", "surfaces", "solids", "meshes"]
+        },
+        "material_information": {
+          "materials_used": ["plastic", "metal"]
+        },
+        "annotation_data": {
+          "notes": ["Initial model", "Review pending"]
+        }
+      }
+    },
+    {
+      "filename": "model3d.3dm",
+      "file_path": "/project/rhino/model3d.3dm",
+      "file_type": ".3dm",
+      "size": 300000,
+      "date_created": "2025-02-17T13:30:00",
+      "date_modified": "2025-02-22T15:00:00",
+      "added_by": "bob@example.com",
+      "tags": ["Rhino", "prototype"],
+      "content_summary": "3D model prototype for further development.",
+      "rhino_metadata": {
+        "rhino_version": "7.0",
+        "units": "inches",
+        "object_count": 95,
+        "layer_details": {
+          "layer_names": ["Base", "Detail"],
+          "layer_visibility": {
+            "Base": true,
+            "Detail": true
+          }
+        },
+        "geometry_information": {
+          "bounding_box": {
+            "x_min": 0,
+            "x_max": 800,
+            "y_min": 0,
+            "y_max": 600,
+            "z_min": 0,
+            "z_max": 400
+          },
+          "object_types": ["curves", "surfaces", "meshes"]
+        },
+        "material_information": {
+          "materials_used": ["glass"]
+        },
+        "annotation_data": {
+          "notes": ["Prototype version"]
+        }
+      }
+    },
+    {
+      "filename": "prototype.3dm",
+      "file_path": "/project/rhino/prototype.3dm",
+      "file_type": ".3dm",
+      "size": 280000,
+      "date_created": "2025-02-16T10:15:00",
+      "date_modified": "2025-02-21T12:45:00",
+      "added_by": "carol@example.com",
+      "tags": ["Rhino", "prototype"],
+      "content_summary": "Alternate prototype design in Rhino.",
+      "rhino_metadata": {
+        "rhino_version": "6.0",
+        "units": "millimeters",
+        "object_count": 110,
+        "layer_details": {
+          "layer_names": ["Main", "Auxiliary"],
+          "layer_visibility": {
+            "Main": true,
+            "Auxiliary": false
+          }
+        },
+        "geometry_information": {
+          "bounding_box": {
+            "x_min": 0,
+            "x_max": 900,
+            "y_min": 0,
+            "y_max": 700,
+            "z_min": 0,
+            "z_max": 450
+          },
+          "object_types": ["curves", "solids"]
+        },
+        "material_information": {
+          "materials_used": ["aluminum"]
+        },
+        "annotation_data": {
+          "notes": ["Alternate design"]
+        }
+      }
+    },
+    {
+      "filename": "concept.3dm",
+      "file_path": "/project/rhino/concept.3dm",
+      "file_type": ".3dm",
+      "size": 240000,
+      "date_created": "2025-02-15T12:00:00",
+      "date_modified": "2025-02-20T10:00:00",
+      "added_by": "dave@example.com",
+      "tags": ["Rhino", "concept"],
+      "content_summary": "Conceptual Rhino model for initial review.",
+      "rhino_metadata": {
+        "rhino_version": "7.0",
+        "units": "millimeters",
+        "object_count": 85,
+        "layer_details": {
+          "layer_names": ["Concept"],
+          "layer_visibility": {
+            "Concept": true
+          }
+        },
+        "geometry_information": {
+          "bounding_box": {
+            "x_min": 0,
+            "x_max": 750,
+            "y_min": 0,
+            "y_max": 650,
+            "z_min": 0,
+            "z_max": 350
+          },
+          "object_types": ["curves", "surfaces"]
+        },
+        "material_information": {
+          "materials_used": ["concrete"]
+        },
+        "annotation_data": {
+          "notes": ["Concept model"]
+        }
+      }
+    },
+    {
+      "filename": "alternate.3dm",
+      "file_path": "/project/alternate/alternate.3dm",
+      "file_type": ".3dm",
+      "size": 260000,
+      "date_created": "2025-02-14T15:00:00",
+      "date_modified": "2025-02-19T13:30:00",
+      "added_by": "eve@example.com",
+      "tags": ["Rhino", "alternate"],
+      "content_summary": "Rhino model stored in a non-standard folder.",
+      "rhino_metadata": {
+        "rhino_version": "6.0",
+        "units": "inches",
+        "object_count": 100,
+        "layer_details": {
+          "layer_names": ["AltLayer"],
+          "layer_visibility": {
+            "AltLayer": true
+          }
+        },
+        "geometry_information": {
+          "bounding_box": {
+            "x_min": 0,
+            "x_max": 850,
+            "y_min": 0,
+            "y_max": 650,
+            "z_min": 0,
+            "z_max": 400
+          },
+          "object_types": ["curves", "meshes"]
+        },
+        "material_information": {
+          "materials_used": ["steel"]
+        },
+        "annotation_data": {
+          "notes": ["Alternate storage location"]
+        }
+      }
+    },
+    {
+      "filename": "floorplan1.dxf",
+      "file_path": "/project/cad/floorplan1.dxf",
+      "file_type": ".dxf",
+      "size": 128000,
+      "date_created": "2025-02-20T12:00:00",
+      "date_modified": "2025-02-24T10:00:00",
+      "added_by": "frank@example.com",
+      "tags": ["CAD", "floorplan"],
+      "content_summary": "2D floor plan of the main building.",
+      "cad_metadata": {
+        "drawing_scale": "1:100",
+        "layers": {
+          "layer_names": ["Walls", "Doors", "Windows"],
+          "layer_properties": {
+            "Walls": {"color": "red", "line_type": "continuous"},
+            "Doors": {"color": "blue", "line_type": "dashed"},
+            "Windows": {"color": "green", "line_type": "continuous"}
+          }
+        },
+        "block_definitions": ["Block1", "Block2"],
+        "annotation_data": {
+          "dimensions": "Measured dimensions present",
+          "notes": "Initial draft"
+        },
+        "line_types": ["dashed", "continuous"],
+        "object_types": ["lines", "arcs", "polylines", "splines"],
+        "revision_history": "Rev 1.0",
+        "software_information": {
+          "creator_tool": "AutoCAD",
+          "version_used": "2021"
+        }
+      }
+    },
+    {
+      "filename": "elevation.dwg",
+      "file_path": "/project/cad/elevation.dwg",
+      "file_type": ".dwg",
+      "size": 150000,
+      "date_created": "2025-02-19T14:00:00",
+      "date_modified": "2025-02-23T09:30:00",
+      "added_by": "george@example.com",
+      "tags": ["CAD", "elevation"],
+      "content_summary": "Elevation drawing of the main facade.",
+      "cad_metadata": {
+        "drawing_scale": "1:50",
+        "layers": {
+          "layer_names": ["Facade", "Annotations"],
+          "layer_properties": {
+            "Facade": {"color": "black", "line_type": "continuous"},
+            "Annotations": {"color": "gray", "line_type": "dashed"}
+          }
+        },
+        "block_definitions": ["ElevBlock"],
+        "annotation_data": {
+          "dimensions": "Elevation dimensions included",
+          "notes": "For review"
+        },
+        "line_types": ["continuous", "dashed"],
+        "object_types": ["lines", "splines"],
+        "revision_history": "Rev A",
+        "software_information": {
+          "creator_tool": "AutoCAD",
+          "version_used": "2020"
+        }
+      }
+    },
+    {
+      "filename": "section.dxf",
+      "file_path": "/project/cad/section.dxf",
+      "file_type": ".dxf",
+      "size": 110000,
+      "date_created": "2025-02-18T10:30:00",
+      "date_modified": "2025-02-22T11:15:00",
+      "added_by": "harry@example.com",
+      "tags": ["CAD", "section"],
+      "content_summary": "Section view of the building.",
+      "cad_metadata": {
+        "drawing_scale": "1:75",
+        "layers": {
+          "layer_names": ["Section", "Notes"],
+          "layer_properties": {
+            "Section": {"color": "purple", "line_type": "continuous"},
+            "Notes": {"color": "black", "line_type": "dotted"}
+          }
+        },
+        "block_definitions": ["SecBlock"],
+        "annotation_data": {
+          "dimensions": "Section dimensions provided",
+          "notes": "Preliminary section"
+        },
+        "line_types": ["continuous", "dotted"],
+        "object_types": ["lines", "arcs"],
+        "revision_history": "Rev 1.1",
+        "software_information": {
+          "creator_tool": "DraftSight",
+          "version_used": "2021"
+        }
+      }
+    },
+    {
+      "filename": "detail.dxf",
+      "file_path": "/project/cad/detail.dxf",
+      "file_type": ".dxf",
+      "size": 95000,
+      "date_created": "2025-02-17T09:45:00",
+      "date_modified": "2025-02-21T10:15:00",
+      "added_by": "irene@example.com",
+      "tags": ["CAD", "detail"],
+      "content_summary": "Detailed drawing of a critical junction.",
+      "cad_metadata": {
+        "drawing_scale": "1:25",
+        "layers": {
+          "layer_names": ["Detail", "Annotations"],
+          "layer_properties": {
+            "Detail": {"color": "orange", "line_type": "continuous"},
+            "Annotations": {"color": "black", "line_type": "dashed"}
+          }
+        },
+        "block_definitions": ["DetailBlock"],
+        "annotation_data": {
+          "dimensions": "Detail dimensions present",
+          "notes": "Final detail"
+        },
+        "line_types": ["continuous", "dashed"],
+        "object_types": ["lines", "polylines"],
+        "revision_history": "Rev 2.0",
+        "software_information": {
+          "creator_tool": "AutoCAD",
+          "version_used": "2022"
+        }
+      }
+    }
+  ]
+}
